@@ -6,16 +6,6 @@ Un portafolio profesional de una sola página (One Page) orientado al sector tec
 
 Este proyecto es un portafolio web personal responsivo que carga dinámicamente toda la información desde archivos JSON. Está diseñado para desarrolladores y profesionales del sector tecnológico que desean mostrar su trabajo de forma profesional y personalizable sin necesidad de modificar código fuente.
 
-![Web](public/web.jpeg)
-
-## Características Principales
-
-- **Diseño Responsivo**: Se adapta a cualquier dispositivo (móvil, tablet, escritorio)
-- **Carga Dinámica**: Toda la información se carga desde archivos JSON fácilmente editables
-- **Secciones Completas**: Inicio, Sobre Mí, Proyectos y Contacto
-- **Personalizable**: Fácil de adaptar a tus necesidades cambiando solo los archivos JSON
-- **Moderno**: Construido con React y Tailwind CSS para un diseño limpio y actual
-
 ## Tecnologías Utilizadas 🛠️
 
 - [React](https://reactjs.org/) - Biblioteca JavaScript para construir interfaces de usuario
@@ -76,41 +66,7 @@ src/
     └── Index.tsx     # Página principal que muestra todas las secciones
 ```
 
-## Personalización 🎨
 
-El portafolio está diseñado para ser fácilmente personalizable modificando los archivos JSON en la carpeta `src/data/`.
-
-### Modificar Información Personal
-
-Edita el archivo `src/data/personal.json`:
-
-```json
-{
-  "name": "Tu Nombre",
-  "profession": "Tu Profesión",
-  "shortBio": "Una breve descripción sobre ti",
-  "fullBio": "Una descripción más detallada de tu experiencia y habilidades...",
-  "avatarUrl": "URL de tu foto de perfil"
-}
-```
-
-### Modificar Proyectos
-
-Edita el archivo `src/data/projects.json`:
-
-```json
-[
-  {
-    "id": 1,
-    "name": "Nombre del Proyecto",
-    "description": "Descripción del proyecto",
-    "image": "URL de la imagen del proyecto",
-    "tags": ["React", "Node.js", "MongoDB"],
-    "githubUrl": "URL del repositorio en GitHub",
-    "liveUrl": "URL del proyecto en vivo"
-  }
-  // Añade más proyectos aquí
-]
 ```
 
 ### Modificar Información de Contacto
@@ -177,8 +133,7 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENS
 
 ## Autores
 
-- **Brayan Diaz C** - _Trabajo inicial_ - [Brayan Diaz C](https://github.com/brayandiazc)
-
+- **Brayan Diaz C** - _Trabajo inicial_
+- **Camila Peña R** -
 ---
 
-⌨️ con ❤️ por [Adalid CL](https://github.com/adalid-cl) 😊
