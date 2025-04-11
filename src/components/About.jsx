@@ -50,7 +50,7 @@ const About = () => {
                 <div className="text-gray-600">Años de Experiencia</div>
               </div>
               <div className="text-center glass-card p-4">
-                <div className="text-3xl text-secondary font-bold">100+</div>
+                <div className="text-3xl text-secondary font-bold">80+</div>
                 <div className="text-gray-600">Proyectos Completados</div>
               </div>
               <div className="text-center glass-card p-4">

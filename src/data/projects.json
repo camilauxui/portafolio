@@ -24,15 +24,37 @@
     "image": "https://plus.unsplash.com/premium_photo-1681842917626-e3456c461514?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "liveUrl": "https://centromedico-react.netlify.app/",
     "githubUrl": "https://github.com/camilauxui/Integrac-Completa-CentroMedico-con-ReactJS/tree/M6EP3",
-    "tags": ["JavaScript", "CSS", "ReactJS"]
+    "tags": ["JavaScript", "CSS", "ReactJS", "Html"]
   },
   {
     "id": 4,
-    "name": "Otro",
-    "description": "Sistema de gestión de contenidos para blogs con editor WYSIWYG y gestión de usuarios.",
+    "name": "Otro proyecto",
+    "description": "Aliquid iaculis pariatur blandit aut ultrices delectus faucibus commodo, ultricies, sint tellus. Odio, proin feugiat semper, inceptos iusto nullam ornare fames",
     "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D",
     "liveUrl": "https://xxx",
     "githubUrl": "https://xxx",
     "tags": ["React", "Express", "MongoDB", "JWT"]
+  },
+
+  {
+    "id": 5,
+    "name": "Otro proyecto",
+    "description": "Aliquid iaculis pariatur blandit aut ultrices delectus faucibus commodo, ultricies, sint tellus. Odio, proin feugiat semper, inceptos iusto nullam ornare fames ",
+    "image": "https://plus.unsplash.com/premium_photo-1661382011487-cd3d6b1d9dff?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "liveUrl": "https://xxx",
+    "githubUrl": "https://xxx",
+    "tags": ["React", "Express", "MongoDB", "JWT"]
+  },
+
+  {
+    "id": 6,
+    "name": "Otro proyecto",
+    "description": "Aliquid iaculis pariatur blandit aut ultrices delectus faucibus commodo, ultricies, sint tellus. Odio, proin feugiat semper, inceptos iusto nullam ornare fames ",
+    "image": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "liveUrl": "https://xxx",
+    "githubUrl": "https://xxx",
+    "tags": ["React", "Express", "MongoDB", "JWT"]
   }
+
+
 ]
