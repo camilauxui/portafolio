@@ -1,25 +1,21 @@
 {
-  "email": "jane.doe@example.com",
+  "email": "camilauxuidesigner@gmail.com",
   "socialMedia": [
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/janedoe",
+      "url": "https://www.linkedin.com/in/cp-uxdesign/",
       "icon": "linkedin"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/janedoe",
+      "url": "https://github.com/camilauxui",
       "icon": "github"
     },
+ 
     {
-      "name": "Twitter",
-      "url": "https://twitter.com/janedoe",
-      "icon": "twitter"
-    },
-    {
-      "name": "Instagram",
-      "url": "https://instagram.com/janedoe.dev",
-      "icon": "instagram"
+      "name": "Behance",
+      "url": "https://www.behance.net/cpdisenografico",
+      "icon": "behance"
     }
   ]
 }
