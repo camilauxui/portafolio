@@ -3,7 +3,7 @@
     "id": 1,
     "name": "App Clima",
     "description": "Herramienta que permite a los usuarios ingresar el nombre de una ciudad para obtener información meteorológica conectándose a una API que proporciona datos precisos.",
-    "image": "src/assets/climapp.jpg",
+    "image": "https://raw.githubusercontent.com/camilauxui/portafolio/refs/heads/main/src/assets/climapp.jpg",
     "liveUrl": "https://cpclimapp.netlify.app/",
     "githubUrl": "https://github.com/camilauxui/climapp",
     "tags": ["JavaScript", "CSS", "html", "OpenWeather API"]
