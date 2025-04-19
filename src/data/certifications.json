@@ -1,0 +1,27 @@
+[  
+    {  
+        "id": 1,  
+        "name": "Diseñador Ux / Ui",  
+        "description": "Talento Digital para Chile, año 2021.\n\n Habilidades adquiridas: Diseño centrado en el usuario, Design Thinking, prototipado, Diseño de interfaz de usuario.\nArquitectura de la información, UX Writing, Accesibilidad web, Metodologías ágiles, Wireframes.\nManejo de Figma, Miro, Adobe Xd, HTML5, CSS y Bootstrap.",  
+        "url": "https://www.credly.com/badges/6317f7b5-8853-4007-8a1f-7fd16b6a37ea?source=linked_in_profile"  
+      },  
+  {  
+    "id": 2,  
+    "name": "Desarrollo de aplicaciones Ruby on Rails",  
+    "description": "Talento Digital para Chile, año 2023.\n\n Habilidades adquiridas: \nHerramientas para enfrentar todo el ciclo de vida del producto bajo un enfoque ágil y magro,\n generar un MVP para ser validado en el mercado implementando un prototipo funcional\n de un aplicativo web mediante técnicas de desarrollo y manejo de base de \ndatos utilizando tecnología web, el entorno Ruby y el framework Rails.",  
+    "url": "https://www.acreditta.com/credential/421258cb-08b2-4591-9b4b-31c1b364aa00?utm_source=copy&resource_type=badge&resource=421258cb-08b2-4591-9b4b-31c1b364aa00"  
+  },
+  {  
+    "id": 3,  
+    "name": "Desarrollo de aplicaciones móviles Android Trainee ",  
+    "description": "Talento Digital para Chile, año 2024.\n\n Habilidades adquiridas: \nConstruir aplicaciones que utilicen patrones de diseño de software escalable \n con persistencia de datos y se conecten a un servidor externo.\n Programación básica en Java.\n Lenguaje de consultas a una base de datos. \n Desarrollo de aplicaciones móviles Android Java. \nDesarrollo de aplicaciones móviles Android Kotlin.",  
+    "url": "https://www.acreditta.com/credential/421258cb-08b2-4591-9b4b-31c1b364aa00?utm_source=copy&resource_type=badge&resource=421258cb-08b2-4591-9b4b-31c1b364aa00"  
+  }  ,
+
+  {  
+    "id": 4,  
+    "name": "Desarrollo Front-End",  
+    "description": "Adalid Chile Corfo, año 2025.\n\n Habilidades adquiridas: \nDesarrollo de aplicaciones Front-End con REACT, \n Desarrollo HTML5, CSS3, Programación avanzada en JavaScript,\n Desarrollo de aplicaciones Web progresivas PWA.\n Manejo de repositorio Github.  \nFundamentos de Desarrollo Agile.\n Fundamentos de Integración Contínua, \nDevOps, Docker, Testing.",  
+    "url": "https://nodo.awakelab.cl/course/view.php?id=438"  
+  }  
+]
