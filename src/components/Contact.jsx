@@ -76,14 +76,14 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact" className="bg-white">
+    <section id="contact" className="bg-muted">
       <div className="container mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold">Contacto</h2>
           <div className="w-20 h-1 bg-secondary mx-auto mt-4 mb-6"></div>
-          <p className="text-gray-600 max-w-2xl mx-auto">
-            ¿Interesado en trabajar juntos? Contacta conmigo a través de las
-            siguientes opciones.
+          <p className="text-gray-900 max-w-2xl mx-auto">
+            ¿Interesado en trabajar juntos? Contacta conmigo a través de los
+            siguientes canales.
           </p>
         </div>
 

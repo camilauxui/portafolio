@@ -14,7 +14,7 @@ export default {
             center: true,  
             padding: '1rem',  
             screens: {  
-                '2xl': '1400px'  
+                '2x1': '1400px'  
             }  
         },  
         extend: {  
@@ -22,7 +22,7 @@ export default {
                 border: 'hsl(var(--border))',  
                 input: 'hsl(var(--input))',  
                 ring: 'hsl(var(--ring))',  
-                background: 'hsl(var(--background))',  
+                background: '#79B5B9',  
                 foreground: 'hsl(var(--foreground))',  
                 primary: {  
                     DEFAULT: '#FC4B08', 

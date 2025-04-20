@@ -26,14 +26,14 @@ const Hero = () => {
     >
       <div className="container mx-auto px-6 flex flex-col-reverse md:flex-row items-center justify-between">
         <div className="md:w-1/2 text-center md:text-left animate-fade-in">
-          <p className="text-secondary text-lg mb-2">Hola, soy</p>
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
+          <p className="text-white text-lg mb-2">Hola, soy</p>
+          <h1 className="text-4xl md:text-4xl lg:text-6xl font-bold mb-4">
             {personal.name}
           </h1>
-          <h2 className="text-2xl md:text-3xl text-gray-600 mb-6">
+          <h2 className="text-3xl md:text-2xl 800 mb-6">
             {personal.profession}
           </h2>
-          <p className="text-lg text-gray-700 mb-8 max-w-lg mx-auto md:mx-0">
+          <p className="text-lg text-gray-80 mb-8 max-w-lg mx-auto md:mx-0">
             {personal.shortBio}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">

@@ -8,10 +8,10 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
-            <p className="text-lg font-semibold">Portfolio</p>
+            <p className="text-lg font-semibold">Portafolio CP Diseño</p>
           </div>
 
-          <div className="text-sm text-gray-300">
+          <div className="text-sm text-white">
             &copy; {currentYear} Todos los derechos reservados
           </div>
 
@@ -20,7 +20,7 @@ const Footer = () => {
               <li>
                 <a
                   href="#home"
-                  className="hover:text-secondary transition-colors"
+                  className="hover:text-muted transition-colors"
                 >
                   Inicio
                 </a>
@@ -28,23 +28,31 @@ const Footer = () => {
               <li>
                 <a
                   href="#about"
-                  className="hover:text-secondary transition-colors"
+                  className="hover:text-muted transition-colors"
                 >
                   Sobre Mí
                 </a>
               </li>
               <li>
                 <a
-                  href="#projects"
-                  className="hover:text-secondary transition-colors"
+                  href="#certificaciones"
+                  className="hover:text-muted transition-colors"
                 >
-                  Proyectos
+                  Certificaciones
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#projects"
+                  className="hover:text-muted transition-colors"
+                >
+                   Proyectos
                 </a>
               </li>
               <li>
                 <a
                   href="#contact"
-                  className="hover:text-secondary transition-colors"
+                  className="hover:text-muted transition-colors"
                 >
                   Contacto
                 </a>
