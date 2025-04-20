@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "App Clima",
-    "description": "Herramienta que permite a los usuarios ingresar el nombre de una ciudad para obtener información meteorológica conectándose a una API que proporciona datos precisos.",
-    "image": "https://raw.githubusercontent.com/camilauxui/portafolio/refs/heads/main/src/assets/climapp.jpg",
-    "liveUrl": "https://cpclimapp.netlify.app/",
-    "githubUrl": "https://github.com/camilauxui/climapp",
-    "tags": ["JavaScript", "CSS", "html", "OpenWeather API"]
+    "name": "Web Centro Médico",
+    "description": "Aplicación web y PWA para la web de un Centro Médico. El proyecto incluye almacenamiento web avanzado, estrategias de Service Worker, y análisis con Lighthouse, uso de periféricos del sistema operativo, accesos a API y sistema de registro de horas médicas. ",
+    "image": "https://plus.unsplash.com/premium_photo-1681842917626-e3456c461514?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "liveUrl": "https://centromedico-react.netlify.app/",
+    "githubUrl": "https://github.com/camilauxui/Integrac-Completa-CentroMedico-con-ReactJS/tree/M6EP3",
+    "tags": ["JavaScript", "CSS", "ReactJS", "Html"]
   },
   {
     "id": 2,
@@ -19,12 +19,12 @@
   },
   {
     "id": 3,
-    "name": "Web Centro Médico",
-    "description": "Aplicación web y PWA para la web de un Centro Médico. El proyecto incluye almacenamiento web avanzado, estrategias de Service Worker, y análisis con Lighthouse, uso de periféricos del sistema operativo, accesos a API y sistema de registro de horas médicas. ",
-    "image": "https://plus.unsplash.com/premium_photo-1681842917626-e3456c461514?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "liveUrl": "https://centromedico-react.netlify.app/",
-    "githubUrl": "https://github.com/camilauxui/Integrac-Completa-CentroMedico-con-ReactJS/tree/M6EP3",
-    "tags": ["JavaScript", "CSS", "ReactJS", "Html"]
+    "name": "App Clima",
+    "description": "Herramienta que permite a los usuarios ingresar el nombre de una ciudad para obtener información meteorológica conectándose a una API que proporciona datos precisos.",
+    "image": "https://raw.githubusercontent.com/camilauxui/portafolio/refs/heads/main/src/assets/climapp.jpg",
+    "liveUrl": "https://cpclimapp.netlify.app/",
+    "githubUrl": "https://github.com/camilauxui/climapp",
+    "tags": ["JavaScript", "CSS", "html", "OpenWeather API"]
   },
   {
     "id": 4,
