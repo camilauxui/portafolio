@@ -28,12 +28,12 @@
   },
   {
     "id": 4,
-    "name": "Otro proyecto",
-    "description": "Aliquid iaculis pariatur blandit aut ultrices delectus faucibus commodo, ultricies, sint tellus. Odio, proin feugiat semper, inceptos iusto nullam ornare fames",
+    "name": "Landing page empresa TI",
+    "description": "Landing page para una empresa de tecnología, desarrollado con React y Figma make. El diseño es responsivo con animaciones y transiciones suaves.",
     "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D",
-    "liveUrl": "https://xxx",
-    "githubUrl": "https://xxx",
-    "tags": ["React", "Express", "MongoDB", "JWT"]
+    "liveUrl": "https://actis.netlify.app/",
+    "githubUrl": "https://github.com/camilauxui/Actis",
+    "tags": ["React", "JavaScript", "CSS", "Figma"]
   },
 
   {
