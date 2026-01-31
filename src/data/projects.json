@@ -38,12 +38,12 @@
 
   {
     "id": 5,
-    "name": "Otro proyecto",
-    "description": "Aliquid iaculis pariatur blandit aut ultrices delectus faucibus commodo, ultricies, sint tellus. Odio, proin feugiat semper, inceptos iusto nullam ornare fames ",
-    "image": "https://plus.unsplash.com/premium_photo-1661382011487-cd3d6b1d9dff?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "liveUrl": "https://xxx",
-    "githubUrl": "https://xxx",
-    "tags": ["React", "Express", "MongoDB", "JWT"]
+    "name": "Catálogo de productos",
+    "description": "Desarrollo de un sitio web para un emprendimiento de cosmética natural utilizando HTML5, CSS y Bootstrap. Implementa un sistema de filtro dinámico por categorías, vista detalle de producto y un botón de compra vía WhatsApp como alternativa a la falta de pasarela de pago.",
+    "image": "https://images.unsplash.com/photo-1651528878565-72be2f306307?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "liveUrl": "https://camilauxui.github.io/wechoyin/index.html",
+  "githubUrl": "https://github.com/camilauxui/wechoyin",
+    "tags": ["Bootstrap5", "HTML5", "CSS3", "JavaScript"]
   },
 
   {
