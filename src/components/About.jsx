@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import personalData from "../data/personal.json";
-import logoImage from '../assets/LogoCP.png'; 
+import logoImage from '../assets/logo_firma3.jpg'; 
 
 const About = () => {
   const [personal, setPersonal] = useState(null);
@@ -44,24 +44,7 @@ const About = () => {
               </p>
             ))}
 
-            <div className="mt-8 pt6  grid grid-cols-2 md:grid-cols-4 gap-8">
-              <div className="text-center glass-card p-4">
-                <div className="text-3xl text-secondary font-bold">20+</div>
-                <div className="text-gray-600">Años de Experiencia</div>
-              </div>
-              <div className="text-center glass-card p-4">
-                <div className="text-3xl text-secondary font-bold">50+</div>
-                <div className="text-gray-600">Proyectos </div>
-              </div>
-              <div className="text-center glass-card p-4">
-                <div className="text-3xl text-secondary font-bold">10+</div>
-                <div className="text-gray-600">Tecnologías</div>
-              </div>
-              <div className="text-center glass-card p-4">
-                <div className="text-3xl text-secondary font-bold">60+</div>
-                <div className="text-gray-600">Clientes</div>
-              </div>
-            </div>
+           
           </div>
         </div>
       </div>

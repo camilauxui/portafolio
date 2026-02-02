@@ -27,9 +27,7 @@ const Certificaciones = () => {
       <div className="container mx-auto text-center mb-12">  
         <h2 className="text-3xl md:text-4xl font-bold">Certificaciones y Cursos</h2>  
         <div className="w-20 h-1 bg-secondary mx-auto mt-4 mb-6"></div>  
-        <p className="max-w-2xl mx-auto">  
-        Título profesional de Diseñadora Gráfica, Universidad Diego Portales. Bootcamp Diseño UX/UI, Bootcamp Desarrollo ROR, Bootcamp Desarrollo Android y BootcampDesarrollo Front-End. Cursos de postproducción avanzada en Adobe After Effects, copywriting, usabilidad y Agile.  
-        </p>  
+      
       </div>  
 
       {/* Ajustamos el contenedor del Carousel para dar espacio a los botones */}  
